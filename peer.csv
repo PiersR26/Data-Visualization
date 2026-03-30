@@ -1,0 +1,169 @@
+"school","series","rank","salary"
+"Amherst","cola_adjusted","all_fac_2020",125628.26406
+"Amherst","cola_adjusted","assist_2020",85859.1904323827
+"Amherst","cola_adjusted","assoc_2020",101330.48277
+"Amherst","cola_adjusted","full_2020",142275.13641
+"Amherst","real","all_fac_2020",115573.38
+"Amherst","real","assist_2020",93328.94
+"Amherst","real","assoc_2020",110986.29
+"Amherst","real","full_2020",155832.57
+"Bates","cola_adjusted","all_fac_2020",115652.45401
+"Bates","cola_adjusted","assist_2020",85861.9
+"Bates","cola_adjusted","assoc_2020",119842.08327
+"Bates","cola_adjusted","full_2020",153180.84107
+"Bates","real","all_fac_2020",101538.59
+"Bates","real","assist_2020",85861.9
+"Bates","real","assoc_2020",105216.93
+"Bates","real","full_2020",134487.13
+"Bowdoin","cola_adjusted","all_fac_2020",107266.12416
+"Bowdoin","cola_adjusted","assist_2020",85505.66856
+"Bowdoin","cola_adjusted","assoc_2020",106404.65784
+"Bowdoin","cola_adjusted","full_2020",137458.09584
+"Bowdoin","real","all_fac_2020",114600.56
+"Bowdoin","real","assist_2020",91352.21
+"Bowdoin","real","assoc_2020",113680.19
+"Bowdoin","real","full_2020",146856.94
+"Carleton","cola_adjusted","all_fac_2020",114797.2176
+"Carleton","cola_adjusted","assist_2020",86389.28336
+"Carleton","cola_adjusted","assoc_2020",104637.204
+"Carleton","cola_adjusted","full_2020",137914.0704
+"Carleton","real","all_fac_2020",117620.1
+"Carleton","real","assist_2020",88513.61
+"Carleton","real","assoc_2020",107210.25
+"Carleton","real","full_2020",141305.4
+"Claremont McKenna","cola_adjusted","all_fac_2020",47396.8376
+"Claremont McKenna","cola_adjusted","assist_2020",37273.72425
+"Claremont McKenna","cola_adjusted","assoc_2020",43918.27223
+"Claremont McKenna","cola_adjusted","full_2020",60401.56598
+"Claremont McKenna","real","all_fac_2020",138183.2
+"Claremont McKenna","real","assist_2020",108669.75
+"Claremont McKenna","real","assoc_2020",128041.61
+"Claremont McKenna","real","full_2020",176097.86
+"Colby","cola_adjusted","all_fac_2020",135057.04542
+"Colby","cola_adjusted","assist_2020",106845.75857
+"Colby","cola_adjusted","assoc_2020",128385.65459
+"Colby","cola_adjusted","full_2020",177062.62892
+"Colby","real","all_fac_2020",111341.34
+"Colby","real","assist_2020",88083.89
+"Colby","real","assoc_2020",105841.43
+"Colby","real","full_2020",145970.84
+"Colgate","cola_adjusted","all_fac_2020",126267.66806
+"Colgate","cola_adjusted","assist_2020",106703.89452
+"Colgate","cola_adjusted","assoc_2020",125185.07758
+"Colgate","cola_adjusted","full_2020",175008.26594
+"Colgate","real","all_fac_2020",109417.39
+"Colgate","real","assist_2020",92464.38
+"Colgate","real","assoc_2020",108479.27
+"Colgate","real","full_2020",151653.61
+"Davidson","cola_adjusted","all_fac_2020",85206.3264
+"Davidson","cola_adjusted","assist_2020",66457.5808
+"Davidson","cola_adjusted","assoc_2020",81738.10944
+"Davidson","cola_adjusted","full_2020",112094.76928
+"Davidson","real","all_fac_2020",102411.45
+"Davidson","real","assist_2020",79876.9
+"Davidson","real","assoc_2020",98242.92
+"Davidson","real","full_2020",134729.29
+"Furman","cola_adjusted","all_fac_2020",97884.6771
+"Furman","cola_adjusted","assist_2020",78315.04296
+"Furman","cola_adjusted","assoc_2020",92360.22369
+"Furman","cola_adjusted","full_2020",114330.64335
+"Furman","real","all_fac_2020",87946.7
+"Furman","real","assist_2020",70363.92
+"Furman","real","assoc_2020",82983.13
+"Furman","real","full_2020",102722.95
+"Grinnell","cola_adjusted","all_fac_2020",132412.61272
+"Grinnell","cola_adjusted","assist_2020",105974.48176
+"Grinnell","cola_adjusted","assoc_2020",127936.46536
+"Grinnell","cola_adjusted","full_2020",168585.74992
+"Grinnell","real","all_fac_2020",109613.09
+"Grinnell","real","assist_2020",87727.22
+"Grinnell","real","assoc_2020",105907.67
+"Grinnell","real","full_2020",139557.74
+"Hamilton","cola_adjusted","all_fac_2020",133976.1183
+"Hamilton","cola_adjusted","assist_2020",110036.5611
+"Hamilton","cola_adjusted","assoc_2020",134646.75
+"Hamilton","cola_adjusted","full_2020",176975.8536
+"Hamilton","real","all_fac_2020",107611.34
+"Hamilton","real","assist_2020",88382.78
+"Hamilton","real","assoc_2020",108150
+"Hamilton","real","full_2020",142149.28
+"Haverford","cola_adjusted","all_fac_2020",29890.89696
+"Haverford","cola_adjusted","assist_2020",25147.9676
+"Haverford","cola_adjusted","assoc_2020",29905.27072
+"Haverford","cola_adjusted","full_2020",38827.97464
+"Haverford","real","all_fac_2020",100982.76
+"Haverford","real","assist_2020",84959.35
+"Haverford","real","assoc_2020",101031.32
+"Haverford","real","full_2020",131175.59
+"Macalester","cola_adjusted","all_fac_2020",100322.46276
+"Macalester","cola_adjusted","assist_2020",80891.6472
+"Macalester","cola_adjusted","assoc_2020",96464.8113
+"Macalester","cola_adjusted","full_2020",128355.17214
+"Macalester","real","all_fac_2020",98937.34
+"Macalester","real","assist_2020",79774.8
+"Macalester","real","assoc_2020",95132.95
+"Macalester","real","full_2020",126583.01
+"Middlebury","cola_adjusted","all_fac_2020",115318.17188
+"Middlebury","cola_adjusted","assist_2020",92760.74732
+"Middlebury","cola_adjusted","assoc_2020",107290.41708
+"Middlebury","cola_adjusted","full_2020",144318.12384
+"Middlebury","real","all_fac_2020",112177.21
+"Middlebury","real","assist_2020",90234.19
+"Middlebury","real","assoc_2020",104368.11
+"Middlebury","real","full_2020",140387.28
+"Oberlin","cola_adjusted","all_fac_2020",119806.13998
+"Oberlin","cola_adjusted","assist_2020",88622.52634
+"Oberlin","cola_adjusted","assoc_2020",116747.9947
+"Oberlin","cola_adjusted","full_2020",150850.23754
+"Oberlin","real","all_fac_2020",97482.62
+"Oberlin","real","assist_2020",72109.46
+"Oberlin","real","assoc_2020",94994.3
+"Oberlin","real","full_2020",122742.26
+"Pomona","cola_adjusted","all_fac_2020",43366.65963
+"Pomona","cola_adjusted","assist_2020",33829.90135
+"Pomona","cola_adjusted","assoc_2020",41165.64921
+"Pomona","cola_adjusted","full_2020",55048.30324
+"Pomona","real","all_fac_2020",126433.41
+"Pomona","real","assist_2020",98629.45
+"Pomona","real","assoc_2020",120016.47
+"Pomona","real","full_2020",160490.68
+"Swarthmore","cola_adjusted","all_fac_2020",108290.18268
+"Swarthmore","cola_adjusted","assist_2020",76816.32612
+"Swarthmore","cola_adjusted","assoc_2020",97664.76696
+"Swarthmore","cola_adjusted","full_2020",136943.88864
+"Swarthmore","real","all_fac_2020",123618.93
+"Swarthmore","real","assist_2020",87689.87
+"Swarthmore","real","assoc_2020",111489.46
+"Swarthmore","real","full_2020",156328.64
+"Vassar","cola_adjusted","all_fac_2020",108955.6845
+"Vassar","cola_adjusted","assist_2020",87026.18925
+"Vassar","cola_adjusted","assoc_2020",108706.0845
+"Vassar","cola_adjusted","full_2020",139218.5925
+"Vassar","real","all_fac_2020",111749.42
+"Vassar","real","assist_2020",89257.63
+"Vassar","real","assoc_2020",111493.42
+"Vassar","real","full_2020",142788.3
+"Washington and Lee","cola_adjusted","all_fac_2020",135641.61594
+"Washington and Lee","cola_adjusted","assist_2020",108761.38776
+"Washington and Lee","cola_adjusted","assoc_2020",132259.23891
+"Washington and Lee","cola_adjusted","full_2020",164424.25332
+"Washington and Lee","real","all_fac_2020",118671.58
+"Washington and Lee","real","assist_2020",95154.32
+"Washington and Lee","real","assoc_2020",115712.37
+"Washington and Lee","real","full_2020",143853.24
+"Wesleyan","cola_adjusted","all_fac_2020",108809.03666
+"Wesleyan","cola_adjusted","assist_2020",88835.87124
+"Wesleyan","cola_adjusted","assoc_2020",108121.36344
+"Wesleyan","cola_adjusted","full_2020",154335.00442
+"Wesleyan","real","all_fac_2020",111713.59
+"Wesleyan","real","assist_2020",91207.26
+"Wesleyan","real","assoc_2020",111007.56
+"Wesleyan","real","full_2020",158454.83
+"Williams","cola_adjusted","all_fac_2020",121289.13415
+"Williams","cola_adjusted","assist_2020",92992.75439
+"Williams","cola_adjusted","assoc_2020",105085.38234
+"Williams","cola_adjusted","full_2020",148553.85318
+"Williams","real","all_fac_2020",122390.65
+"Williams","real","assist_2020",93837.29
+"Williams","real","assoc_2020",106039.74
+"Williams","real","full_2020",149902.98
